@@ -204,7 +204,7 @@ export default function Home() {
           </div>
           <div className="mt-8 pt-8 border-t border-gray-200 flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-500 text-sm mb-4 md:mb-0">
-              © 2023 PitchWriterAI. All rights reserved.
+              © 2023 ResumeAvailablity. All rights reserved.
             </p>
             <div className="flex space-x-6">
               <a
